@@ -7,11 +7,11 @@
 }
 section{
 	background-color:white;
-	border:1 px solid black;
+
 }
-.text{
+/* .text{
 	text-decoration:none;
-}
+} */
 .author{
 	font-style:italic;
 	text-align:right;
