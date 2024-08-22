@@ -5,13 +5,14 @@
 	height:100px
 	width:100px
 }
+h1{
+	padding:10px;
+}
 section{
 	background-color:white;
 
 }
-/* .text{
-	text-decoration:none;
-} */
+
 .author{
 	font-style:italic;
 	text-align:right;
