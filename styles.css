@@ -9,5 +9,5 @@
   border: 1px solid gray;
   background-color: white;
   margin: 30px;
-  min-width: fit-content;
+  /* min-width: fit-content; */
 }
